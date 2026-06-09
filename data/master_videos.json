@@ -8725,13 +8725,27 @@
       "drive_file_id": "1Zp46GOCnluP0iCGQS50zV2HOzd8u422v"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Social Media Growth",
+        "project": "Creator Growth Strategy",
+        "summary": "The video highlights the profiles of successful digital creators and suggests that using specific tools is a key factor in reaching a large audience and gaining followers on platforms like Instagram.",
+        "materials": [
+          "Instagram creator profiles"
+        ],
+        "tools": [
+          "Social media growth tools"
+        ],
+        "viral_hook": "How to get 1 million followers? The secret strategy used by top creators."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "b-5o_oq8Gkw",
+        "uploaded_at": "2026-06-09T06:14:56.122289",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8745,6 +8759,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T06:14:52.416857"
     }
   },
   {
